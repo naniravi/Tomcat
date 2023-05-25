@@ -4,3 +4,18 @@ install java
 install tomcat 
 
 unzip tomcat binary 
+
+
+To acess the Manager app
+Go to conf/tomcat-users.xml
+
+got to above above path add below script 
+
+<user username="admin" password="admin123" roles="manager-gui,admin-gui"/>
+
+
+manager-gui ==> we can Acess Server Status & managerApp
+
+admin-gui ==> we can Acess Host manager App
+
+
