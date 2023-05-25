@@ -1,3 +1,46 @@
+
+Applications Servers
+===========================
+
+
+Websphere Applicationn Servers --> provider IBM [licenced 0ne] 
+
+Most of the City bank is using Websphere Application Servers only
+
+
+Weblogic --Initally BEA --> Now Oracle [licenced 0ne] 
+
+Most of the HDFC applications are deployent in  Weblogic Applications Servers only
+
+JBoss/Wildfly--> Initally RedHat  ---> IBM [Opensource]
+
+
+Apachetomcat ---> Apache Software  [Open Source ]
+
+If you application is not that much big we using  JBoss/Wildfly or Apachetomcat
+
+
+
+
+By using Applications server we are going to deploy 
+
+==========================================================
+
+1.Tomcat is an  open souces Java based webapplication Server
+
+2.Tomcat support only java Based Applications   
+ 
+3.Tomcat, Websphere Application, Weblogic, Wildfly all applications supports javalanguage only   
+
+
+
+
+
+
+
+
+
+
 install wget
 Install unzip packages 
 install java
